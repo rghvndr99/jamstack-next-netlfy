@@ -1,7 +1,5 @@
 const Footer = () => {
     const mystyle = {
-        "position": "absolute",
-        "bottom": "0",
         "width": "100%",
         "backgroundColor": "#333",
         "color":"#fff",
