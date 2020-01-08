@@ -1,6 +1,6 @@
 import App from 'next/app'
 import Layout from '../component/Layout.js'
-import cartcontext from '../component/CartContext';
+import CartContext from '../component/CartContext';
 
 export default class MyApp extends App {
 
@@ -37,11 +37,11 @@ export default class MyApp extends App {
   render () {
     const { Component, pageProps } = this.props
     return (
-      <cartcontext.Provider value={{cart: this.state.cart, addToCart: this.addToCart, total: this.calculateTotal, carttotal: this.state.carttotal}}>
+      <CartContext.Provider value={{cart: this.state.cart, addToCart: this.addToCart, total: this.calculateTotal, carttotal: this.state.carttotal}}>
         <Layout>
           <Component {...pageProps} />
         </Layout>
-      </cartcontext.Provider>
+      </CartContext.Provider>
     )
   }
 }
