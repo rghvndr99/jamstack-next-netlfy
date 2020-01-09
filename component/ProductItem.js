@@ -5,7 +5,7 @@ import CartContext from './CartContext';
 const ProductItem = (props) => {
   const { addToCart, total } = useContext(CartContext);
    return (
-      <div className="container mt-4">
+      <div className="container mt-4" style={{marginBottom: "20px"}}>
         <div className="row">
           <div className="col-sm-4">
             <div className="card" style={{width: "18rem"}}>

@@ -5,7 +5,7 @@ const Footer = () => {
         "color":"#fff",
     };
     return (
-        <footer style={mystyle} className="page-footer font-small bg-blue pt-4">
+        <footer style={mystyle} className="page-footer font-small bg-info pt-4">
           <div className="container text-center text-md-left">
             <div className="row">
               <div className="col-md-6 mt-md-0 mt-3">

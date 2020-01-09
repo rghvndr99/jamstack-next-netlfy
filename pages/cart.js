@@ -44,7 +44,7 @@ import CartContext from '../component/CartContext';
                       <h5 className="font-weight-bold">$ {carttotal}</h5>
                     </li>
                   </ul>
-                  <a href="#" className="btn btn-dark rounded-pill py-2 btn-block">Procceed to checkout</a>
+                  <a href="#" className="btn btn-dark rounded-pill py-2 btn-block" style={{width:"200px",margin: "0 auto"}}>Procceed to checkout</a>
                 </div>
               </div>
             </div>
