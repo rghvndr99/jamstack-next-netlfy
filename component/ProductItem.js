@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useContext } from 'react';
 import CartContext from './CartContext';
 
-import "../css/component/ProductItem.scss";
+import "../css/component/productItem.scss";
 
 const ProductItem = (props) => {
   const { addToCart, total } = useContext(CartContext);
