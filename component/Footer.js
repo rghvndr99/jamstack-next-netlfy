@@ -19,7 +19,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="footer-copyright text-center py-3">© 2019 Copyright:
-            <span> Shoppr</span>
+            <span> Shopper stop</span>
           </div>
         </footer>
     );
