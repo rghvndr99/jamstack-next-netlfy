@@ -1,0 +1,22 @@
+@import '../common/variable.scss';
+
+.cart-item-container {
+    & .cart-heading {
+        text-align:center;
+        padding:10px 0 20px 0;
+    }
+    & .total-item-list {
+        padding:0 12px;
+    }
+    & .proceed-to-checkout {
+        width:200px;
+        margin: 0 auto 25px auto;
+        
+    }
+    & .cart-item-wrap {
+        width: 100%;
+    }
+    & .table-header {
+        background-color: $primary1;
+    }
+}

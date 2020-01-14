@@ -1,9 +1,10 @@
 import Link from "next/link";
+import "../css/component/product.scss";
 
 const Product = (props) => {
  return (
       <div className="col-sm-4">
-          <div className="card" style={{width: "18rem"}}>
+          <div className="card">
             <img src={props.product.image} className="card-img-top" alt="shirt"/>
             <div className="card-body">
               <h5 className="card-title">{props.product.name}</h5>

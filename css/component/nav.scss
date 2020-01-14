@@ -1,0 +1,38 @@
+@import '../common/variable.scss';
+
+.navbar {    
+    & .cart-quantity {
+        position: absolute;
+        top:-10px;
+    }
+    & .nav-link {
+        color: $text-color-nav;
+    }
+    & .cart-container {
+        color: $text-color-nav;        
+        position: relative;
+    }
+    & .cart,
+    & .humberger-menu {
+        color: $text-color-nav;
+    }
+    & .navbar-toggler {
+        outline: 0;
+    }
+    & .navbar-collapse {
+        justify-content: flex-end;
+        padding: 0 20px 0 0;
+    }
+}
+
+@media (min-width: $breakpoint-desktop) {
+    .navbar{
+        & .cart-container {
+            margin-left: 20px;
+            border-left: 1px solid $text-color-nav;
+            padding-left: 20px;
+        }        
+    }
+}
+
+

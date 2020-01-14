@@ -1,0 +1,18 @@
+@import '../common/variable.scss';
+
+.container{
+    & .card-img-top {
+        max-height: 344px;
+    }
+    & .card {
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: $breakpoint-tablet) {
+    .container{
+        & .card-img-top {
+            max-height: 344px;
+        }        
+    }
+}
