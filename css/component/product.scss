@@ -7,6 +7,12 @@
     & .card {
         margin-bottom: 20px;
     }
+    & .view-product {
+        background-color: $primary2;
+        padding: 10px;
+        color:$text-color-nav;
+        text-decoration: none;
+    }
 }
 
 @media (min-width: $breakpoint-tablet) {

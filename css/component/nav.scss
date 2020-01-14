@@ -1,6 +1,7 @@
 @import '../common/variable.scss';
 
-.navbar {    
+.navbar {   
+    padding: 1rem; 
     & .cart-quantity {
         position: absolute;
         top:-10px;
@@ -22,6 +23,16 @@
     & .navbar-collapse {
         justify-content: flex-end;
         padding: 0 20px 0 0;
+    }
+    & .dropdown-menu {
+        border:0;
+        
+    }
+    & .dropdown-item {
+        color: $text-color-nav;
+    }
+    & .dropdown-item:hover {
+        color: $primary3;
     }
 }
 

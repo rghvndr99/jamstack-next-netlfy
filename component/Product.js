@@ -10,7 +10,7 @@ const Product = (props) => {
               <h5 className="card-title">{props.product.name}</h5>
               <h6 className="card-title">$ {props.product.price}</h6>
               <Link href="/product/[id]" as={`/product/${props.product.id}`}>
-                  <a>View Item &rarr;</a>
+                  <a className="view-product">View Item &rarr;</a>
               </Link>
             </div>
           </div>

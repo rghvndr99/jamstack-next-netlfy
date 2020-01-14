@@ -15,11 +15,11 @@ import "../css/page/cart.scss";
                     <table className="table">
                       <thead>
                         <tr>
-                          <th scope="col" className="border-0 table-header">
+                          <th scope="col" className="border-0 table-header clear-left-padding">
                             <div className="p-2 px-3 text-uppercase text-secondary">Product</div>
                           </th>
                           <th scope="col" className="border-0 table-header">
-                            <div className="py-2 text-uppercase text-secondary">Price</div>
+                            <div className="py-2 text-uppercase text-secondary text-align-right">Price</div>
                           </th>
                         </tr>
                       </thead>
@@ -34,7 +34,7 @@ import "../css/page/cart.scss";
                               </div>
                             </div>
                           </th>
-                          <td className="border-0 align-middle text-secondary"><strong>$ {item.price}</strong></td>
+                          <td className="border-0 align-middle text-secondary text-align-right"><strong>$ {item.price}</strong></td>
                         </tr>
                         )}
                       </tbody>

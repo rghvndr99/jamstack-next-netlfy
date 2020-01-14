@@ -1,11 +1,8 @@
+import "../css/component/footer.scss";
+
 const Footer = () => {
-    const mystyle = {
-        "width": "100%",
-        "backgroundColor": "#333",
-        "color":"#fff",
-    };
     return (
-        <footer style={mystyle} className="page-footer font-small bg-info pt-4">
+        <footer className="page-footer font-small bg-info pt-4">
           <div className="container text-center text-md-left">
             <div className="row">
               <div className="col-md-6 mt-md-0 mt-3">

@@ -19,4 +19,10 @@
     & .table-header {
         background-color: $primary1;
     }
+    & .text-align-right {
+        text-align: right;
+    }
+    & .clear-left-padding {
+        padding-left: 0;
+    }
 }

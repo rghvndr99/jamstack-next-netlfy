@@ -41,7 +41,7 @@ const Navbar = (props) => {
             >
               Category
             </a>
-            <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div className="dropdown-menu bg-info" aria-labelledby="navbarDropdown">
               <a className="dropdown-item" href="#">
                 Electronics
               </a>
