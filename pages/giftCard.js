@@ -7,6 +7,7 @@ import { attributes } from '../content/home.md';
 
 const GiftCard = () => {
     let { title, description } = attributes;
+    console.log(title,description);
   return (
     <div className="gift-card-container">
       <p className="title"> {title}</p>
