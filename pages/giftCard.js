@@ -6,8 +6,7 @@ import "../css/page/giftCard.scss";
 import { attributes ,react as HomeContent } from '../content/home.md';
 
 const GiftCard = () => {
-    let { title, description } = attributes;
-    console.log(title,description);
+    let { title} = attributes;    
   return (
     <div className="gift-card-container">
       <p className="title"> {title}</p>

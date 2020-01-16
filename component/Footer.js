@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="col-md-6 mb-md-0 mb-3">
                 <h5 className="text-uppercase font-weight-bold">Return Policy</h5>
                 <p>We accept returns after 7 days max</p>
-                <a class="source-code" target="_blank" href="https://github.com/rghvndr99/jamstack-next-netlfy">Internal structure</a>
+                <a className="source-code" target="_blank" href="https://github.com/rghvndr99/jamstack-next-netlfy">Internal structure</a>
               </div>
             </div>
           </div>
