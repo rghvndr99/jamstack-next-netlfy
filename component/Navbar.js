@@ -64,9 +64,8 @@ const Navbar = (props) => {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#" tabIndex="-1" aria-disabled="true">
-              Sell on shoper
-            </a>
+            <a className="nav-link" target="_blank" tabIndex="-1" aria-disabled="true" href="https://github.com/rghvndr99/jamstack-next-netlfy">
+              Source code</a>
           </li>
         </ul>
         <div className="cart-container">

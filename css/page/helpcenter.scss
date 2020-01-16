@@ -1,0 +1,26 @@
+@import '../common/variable.scss';
+
+.help-container {
+    margin-bottom:20px;
+    & .title {
+        text-align: center;
+        color:$primary3;
+        font-size: 36px;
+    }
+    & .title span{
+        border-bottom:1px solid $primary1;
+    }
+
+    & .description {
+        color:$primary3;
+        font-size: 20px;
+        word-break: break-all;
+        line-height: 1.2;
+    }
+    & .list-group-item {
+        text-decoration: none;
+        color: $primary3;
+        display: flex;
+        justify-content: space-around;
+    }
+}
