@@ -13,11 +13,14 @@
     "react-dom": "^16.12.0",
     "serve": "^11.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "frontmatter-markdown-loader": "^3.1.0"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
-    "start": "serve ./out"
+    "start": "serve ./out",
+    "export": "npm run build && next export"
   },
   "author": "",
   "license": "ISC"
