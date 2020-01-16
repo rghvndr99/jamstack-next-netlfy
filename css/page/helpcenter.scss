@@ -17,6 +17,9 @@
         word-break: break-all;
         line-height: 1.2;
     }
+    & .contect-details {
+        margin-top:50px;
+    }
     & .list-group-item {
         text-decoration: none;
         color: $primary3;
