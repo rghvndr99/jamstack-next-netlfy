@@ -1,25 +1,9 @@
 backend:
-  name: git-gateway
+  name: test-repo
   branch: master
 media_folder: public/img
 public_folder: img
 collections:
-  - name: "pages"
-    label: "Pages"
-    files:
-    - label: "helpcenter"
-      name: "helpcenter"
-      file: "content/helpcenter.md"
-      fields:
-        - { label: "Title", name: "title", widget: "string"}
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown"}
-        - label: 'Contact'
-          name: "Contact"
-          widget: list
-          fields:
-            - { label: "Country", name: "country", widget: "string"}
-            - { label: "Contact nO", name: "ContactNo", widget: "text"}
   - name: "pages"
     label: "Pages"
     files:
@@ -30,4 +14,19 @@ collections:
         - { label: "Title", name: "title", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
+    - label: "helpcenter"
+      name: "helpcenter"
+      file: "content/helpcenter.md"
+      fields:        
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown"}
+        - label: 'Contact'
+          name: "Contact"
+          widget: list
+          fields:
+            - { label: "Country", name: "country", widget: "string"}
+            - { label: "Contact nO", name: "ContactNo", widget: "text"}
+
+    
         
