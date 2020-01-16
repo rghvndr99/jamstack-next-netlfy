@@ -9,7 +9,7 @@ const GiftCard = () => {
     let { title} = attributes;    
   return (
     <div className="gift-card-container">
-      <p className="title"> {title}</p>
+      <p className="title"> <span>{title}</span></p>
       <div className="description"><HomeContent></HomeContent></div>
     </div>
   );
