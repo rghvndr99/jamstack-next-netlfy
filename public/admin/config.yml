@@ -7,9 +7,25 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-    - label: "Home"
-      name: "home"
-      file: "content/home.md"
+    - label: "helpcenter"
+      name: "helpcenter"
+      file: "content/helpcenter.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown"}
+        - label: 'Contact'
+          name: "Contact"
+          widget: list
+          fields:
+            - { label: "Country", name: "country", widget: "string"}
+            - { label: "Contact nO", name: "ContactNo", widget: "text"}
+  - name: "pages"
+    label: "Pages"
+    files:
+    - label: "giftcard"
+      name: "giftcard"
+      file: "content/giftcard.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }

@@ -3,7 +3,7 @@ import Head from 'next/head';
 import fetch from 'isomorphic-unfetch';
 
 import "../css/page/giftCard.scss";
-import { attributes ,react as HomeContent } from '../content/giftcard.md';
+import { attributes ,react as HomeContent } from '../content/helpcenter.md';
 
 const GiftCard = () => {
     let { title} = attributes;    
