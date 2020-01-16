@@ -1,10 +1,32 @@
 ---
-title: Gift card
+title: Gift Card
 date: 2019-03-17T19:31:20.591Z
 ---
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+****
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+The occasion of gifting becomes extra special when the gift comes as per the receiver’s choice. Shoper is pleased to bring you a gift that will not fail to impress your family or friends. We bring to you the shoper Gift Card - an ideal gifting solution!
 
-here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
+
+ 
+
+
+
+Ishoper Gift Card is an all year round gift for any occasion like birthdays, weddings, festivals, anniversaries, farewell etc. It makes your gifting experience hassle-free and helps save your precious time.
+
+
+
+ 
+
+
+
+What's more, gift cardholders can spend the amount loaded on the card in as many VISA enabled stores as they like and purchases can be made throughout the year. Gift cardholders also have the advantage of checking their balance at any bank's ATM, online or by calling up the Customer Care.
+
+
+
+**Benefits of Gift Cards**
+
+1. **Freedom of choice** - A preloaded card with one year validity which can be used for shopping, dining, online transactions at over 8 lakh stores and/or websites across India accepting Visa cards
+2. **Customised** - The Gift Card comes with the flexibility of loading any amount ranging from Rs. 500 to Rs. 10,000 to suit your requirement
+3. **Savings for the recipient** - Card holder can avail great offers and amazing discounts on shopping, dining, fashion and travel at websites listed in offers
+4. **Perfect for distant gifting** - Gift Card ordered through Net Banking or Phone Banking can be directly sent to the intended recipient
