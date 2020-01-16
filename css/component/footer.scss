@@ -2,5 +2,10 @@
 
 .page-footer {
        width: 100%;
-       color: $text-color-nav
+       color: $text-color-nav;
+
+       & .source-code{
+              color:$text-color-nav;
+              text-decoration: underline;
+       }
 }
