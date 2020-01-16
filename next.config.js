@@ -6,7 +6,8 @@ module.exports = withSass({
   webpack: cfg => {
     cfg.module.rules.push({
       test: /\.md$/,
-      loader: "raw-loader"      
+      loader: "frontmatter-markdown-loader",
+      options: { mode: ["react-component"] }
     });
     return cfg;
   }
