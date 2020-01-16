@@ -1,0 +1,16 @@
+@import '../common/variable.scss';
+
+.gift-card-container {
+    margin-bottom:20px;
+    .title {
+        text-align: center;
+        color:$primary3;
+        font-size: 44px;
+    }
+    .description {
+        color:$primary3;
+        font-size: 22px;
+        word-break: break-all;
+        line-height: 1.2;
+    }
+}

@@ -2,15 +2,19 @@ import React from 'react';
 import Head from 'next/head';
 import fetch from 'isomorphic-unfetch';
 
-import "../css/page/cart.scss";
+import "../css/page/giftCard.scss";
 import { attributes } from '../content/home.md';
 
-const GiftCard = (props) => {
+const GiftCard = () => {
     let { title, description } = attributes;
   return (
-    <article>
-         <h1>gift card {title} {description}</h1>
-  </article>
+    <div className="gift-card-container">
+      <p className="title"> {title}</p>
+      <div
+        className="description"
+        dangerouslySetInnerHTML={{ __html: description }}
+      ></div>
+    </div>
   );
 };
 
