@@ -6,14 +6,14 @@ import "../css/page/giftCard.scss";
 import { attributes } from '../content/home.md';
 
 const GiftCard = () => {
-    let { title, body } = attributes;
-    console.log(title,body);
+    let { title, description } = attributes;
+    console.log(title,description);
   return (
     <div className="gift-card-container">
       <p className="title"> {title}</p>
       <div
         className="description"
-        dangerouslySetInnerHTML={{ __html: body }}
+        dangerouslySetInnerHTML={{ __html: description }}
       ></div>
     </div>
   );
