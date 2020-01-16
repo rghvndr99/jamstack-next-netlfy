@@ -26,7 +26,7 @@ collections:
           widget: list
           fields:
             - { label: "Country", name: "country", widget: "string"}
-            - { label: "Contact nO", name: "ContactNo", widget: "text"}
+            - { label: "Contact no", name: "ContactNo", widget: "string"}
 
     
         
