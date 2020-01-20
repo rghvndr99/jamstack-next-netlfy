@@ -2,20 +2,10 @@
 title: Want to know about gift cart?
 date: 2019-03-17T19:31:20.591Z
 ---
-
-
-The occasion of gifting becomes extra special when the gift comes as per the receiver’s choice. Shoper is pleased to bring you a gift that will not fail to impress your family or friends. We bring to you the shoper Gift Card - an ideal gifting solution!
-
-
-
- 
-
-
+The occasion of gifting becomes extra special when the gift comes as per the receiver’s choice. Shoper is pleased to bring you a gift that will not fail to impress your family or friends. We bring to you the shoper Gift Card - an ideal gifting solution for you!
 
 Ishoper Gift Card is an all year round gift for any occasion like birthdays, weddings, festivals, anniversaries, farewell etc. It makes your gifting experience hassle-free and helps save your precious time.
 What's more, gift cardholders can spend the amount loaded on the card in as many VISA enabled stores as they like and purchases can be made throughout the year. Gift cardholders also have the advantage of checking their balance at any bank's ATM, online or by calling up the Customer Care.
-
-
 
 **Benefits of Gift Cards**
 
